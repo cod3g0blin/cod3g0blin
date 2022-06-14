@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @cod3g0blin
-- 👀 I’m interested in python
-- 🌱 I’m currently learning BCA
+- 👋 Hi, I’m Shubham Biswas aka @cod3g0blin
+- 👀 I’m interested in python, JAVA, Cpp, React.
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
